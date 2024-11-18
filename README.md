@@ -1,5 +1,6 @@
 # SystemListening
-Herramienta creada en python para manejar de manera basica la computadora con la voz\n
+Herramienta creada en python para manejar de manera basica la computadora con la voz
+
 Version 1.0.0
 
 # Ejemplo de uso
